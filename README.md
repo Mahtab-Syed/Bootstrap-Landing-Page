@@ -1,1 +1,1 @@
-# Bootstrap-Landing-Page
+"I have developed a responsive landing page using HTML, CSS, and Bootstrap, ensuring a clean and professional design. The page features a well-structured layout with visually appealing sections, including a hero banner, service highlights, and call-to-action buttons. Bootstrap's grid system and components were utilized to achieve seamless responsiveness, ensuring an optimized user experience across all devices. The design is both functional and aesthetic, showcasing my ability to create modern web interfaces using industry-standard tools."
